@@ -1,6 +1,6 @@
 ---
 layout: index
-title: Front page
+title: الرئيسية
 isHome: true
 
 ---
