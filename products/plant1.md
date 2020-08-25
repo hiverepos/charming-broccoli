@@ -3,8 +3,7 @@ layout: product
 id: "1"
 price: '49.40'
 title: Lovely Nullas suscipits ♥
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla suscipit
-  velit lectus, vitae efficitur quam mollis eget. Integer porta at nisl eget tincidunt.
+description: ليس الاورم ايبسوم بواقع تراه
 images:
   default:
     thumbnail:
@@ -20,7 +19,7 @@ images:
     original:
       optimized: "/images/plant1-featured-lg.webp"
       fallback: "/images/plant1-featured-lg.jpg"
-featured: true
+featured: false
 category: bigplants
 section: Store
 
