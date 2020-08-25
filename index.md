@@ -1,6 +1,6 @@
 ---
 layout: index
-title: الزراعة
+title: Front page
 isHome: true
 published: false
 
