@@ -4,6 +4,4 @@ title: Home
 isHome: true
 
 ---
-# Real, beautiful plants right to your door
-
-![](/images/large.png)
+# Real, beautiful plants right to your doorstep !!
