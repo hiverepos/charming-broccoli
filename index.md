@@ -1,6 +1,6 @@
 ---
 layout: index
-title: الرئيسية
+title: الزراعة البدائية
 isHome: true
 
 ---
